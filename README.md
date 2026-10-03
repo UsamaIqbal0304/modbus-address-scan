@@ -151,6 +151,10 @@ Three checks one station settles in an afternoon
      number does not pick it, the property does.
 ```
 
+## The same finding, written up
+
+The output above, the four address formats, the band boundaries that resolve to the same register, and the three checks that settle it on a real station, is also a page: <https://plantroomlabs.com/tools/modbus-address-scan/>. It carries this run, the download with its size and SHA-256, and the note explaining the reasoning.
+
 ## Licence
 
 MIT. Written by Usama Iqbal at [Plantroom Labs](https://plantroomlabs.com).
